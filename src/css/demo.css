@@ -1,0 +1,7 @@
+a{
+	text-decoration: underline;
+	color: red;
+}
+div a{
+	color: blue;
+}
